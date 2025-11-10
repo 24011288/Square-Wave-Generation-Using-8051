@@ -33,6 +33,7 @@ o	Resistor (1kΩ) (if using hardware)
 
 ## Program:
 
+ 
     #include <reg51.h>
      sbit wave=P1^0;
      void delay();
